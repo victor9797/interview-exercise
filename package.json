@@ -1,0 +1,24 @@
+{
+  "name": "interview-exercise",
+  "version": "1.0.0",
+  "description": "Interview exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js --timeout 100000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor9797/interview-exercise.git"
+  },
+  "author": "Approvals Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor9797/interview-exercise/issues"
+  },
+  "homepage": "https://github.com/victor9797/interview-exercise#readme",
+  "devDependencies": {
+    "chromedriver": "^85.0.0",
+    "mocha": "^8.3.2",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
